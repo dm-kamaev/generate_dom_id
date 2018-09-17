@@ -11,6 +11,13 @@
   },
   "author": "dm-kamaev",
   "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/dm-kamaev/generate_dom_id.git"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
   "devDependencies": {
     "mocha": "5.2.0"
   }
