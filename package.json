@@ -1,6 +1,6 @@
 {
   "name": "generate_dom_id",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate ids for html code",
   "keywords": [
     "id for DOM",

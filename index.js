@@ -1,2 +1,2 @@
 
-module.exports = require('./generate_css_id.js');
+module.exports = require('./generate_dom_id.js');
